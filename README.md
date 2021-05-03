@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imadueno
 - 👀 I’m interested in 🐱,🏀,🏈,🎲,🎮,🎥,🍕,🍔,🍩,🍺 and 🚗.
-- 🌱 I’m currently learning Git, Node.JS and Flutter.
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me isai.madueno.23@gmail.com
 - 🏕 I'm from México, Son. 🌵
 <!---
