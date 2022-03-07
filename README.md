@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @imadueno
-- 🌱 I’m a web develper.
-- 📫 How to reach me isai.madueno.23@gmail.com
-- 🏕 I'm from México, Son. 🌵
-<!---
-imadueno/imadueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello world 👋
+
+Welcome to my github profile.
+
+I'm a software engineer from Hermosillo 🌵, MX.
+
+I like web development from the front to the back, I consider myselft a full stack web developer & I also like others programming languajes out of the web development context.
+
+I've been working in web development arround 4 years where I hhave beel learking a loot and I enjoy learning new stuf constantly 🤓.
